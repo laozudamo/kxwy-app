@@ -54,16 +54,16 @@
   }
   
   .list-cell::after {
-    content: '';
-    position: absolute;
-    border-bottom: 1px solid #eaeef1;
-    -webkit-transform: scaleY(0.5) translateZ(0);
-    transform: scaleY(0.5) translateZ(0);
-    transform-origin: 0 100%;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    pointer-events: none;
+    // content: '';
+    // position: absolute;
+    // border-bottom: 1px solid #eaeef1;
+    // -webkit-transform: scaleY(0.5) translateZ(0);
+    // transform: scaleY(0.5) translateZ(0);
+    // transform-origin: 0 100%;
+    // bottom: 0;
+    // right: 0;
+    // left: 0;
+    // pointer-events: none;
   }
   
   
